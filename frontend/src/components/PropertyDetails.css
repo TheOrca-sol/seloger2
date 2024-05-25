@@ -1,0 +1,66 @@
+.property-details {
+  display: flex;
+}
+
+.property-details .sidebar {
+  width: 250px;
+  background-color: #f4f4f4;
+  padding: 20px;
+}
+
+.property-details .logo {
+  width: 100%;
+  margin-bottom: 20px;
+}
+
+.property-details .steps {
+  list-style: none;
+  padding: 0;
+}
+
+.property-details .step {
+  padding: 10px 0;
+  font-size: 14px;
+  color: #333;
+}
+
+.property-details .step.active {
+  font-weight: bold;
+  color: #000;
+}
+
+.property-details .content {
+  flex-grow: 1;
+  padding: 20px;
+}
+
+.property-details .property-type {
+  display: flex;
+  justify-content: space-around;
+  margin: 20px 0;
+}
+
+.property-details .property-type .ant-radio-button-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.property-details .property-type .ant-radio-button-wrapper span {
+  margin-top: 5px;
+}
+
+.property-details .continue-button {
+  background-color: #ff0000;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+}
+
+.property-details .info {
+  margin-top: 10px;
+  font-size: 12px;
+  color: #777;
+}

@@ -1,0 +1,80 @@
+.listing-page {
+  padding: 20px;
+  background-color: #f5f5f5;
+}
+
+.listing-icons {
+  display: flex;
+  gap: 10px;
+  margin-top: 10px;
+}
+
+.listing-description {
+  margin-top: 20px;
+}
+
+.contact-card {
+  padding: 20px;
+}
+
+.contact-form {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-top: 20px;
+}
+
+.contact-form label {
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+.disclaimer {
+  margin-top: 20px;
+  font-size: 12px;
+  color: #888;
+}
+
+.additional-info-container {
+  margin-top: 20px;
+  max-width: 1000px; /* Adjust width as needed */
+  margin: 0 auto; /* Center the container */
+}
+
+.additional-info {
+  background-color: #ffffff;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+  margin-top: 20px;
+
+}
+
+.info-card {
+  text-align: center;
+}
+
+.info-card p {
+  margin: 5px 0;
+}
+
+.diagnostics {
+  display: flex;
+  justify-content: space-between;
+}
+
+.dpe-scale,
+.ges-scale {
+  display: flex;
+}
+
+.dpe-scale span,
+.ges-scale span {
+  display: inline-block;
+  height: 20px;
+  text-align: center;
+  color: white;
+  font-weight: bold;
+}
+
+

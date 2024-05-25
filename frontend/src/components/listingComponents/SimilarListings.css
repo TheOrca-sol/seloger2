@@ -1,0 +1,12 @@
+.similar-listings {
+    margin-top: 20px;
+  }
+  
+  .similar-listings h2 {
+    margin-bottom: 20px;
+  }
+  
+  .similar-listings .ant-card {
+    text-align: center;
+  }
+  

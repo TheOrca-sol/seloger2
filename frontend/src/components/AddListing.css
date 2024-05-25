@@ -1,0 +1,64 @@
+/* src/components/AddListing.css */
+.add-listing-page {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 50px;
+    background-color: #f9f9f9;
+  }
+  
+  .left-section {
+    flex: 1;
+  }
+  
+  .left-image {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+  }
+  
+  .right-section {
+    flex: 1;
+    padding: 20px;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .right-section h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .right-section ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .right-section li {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+    font-size: 18px;
+  }
+  
+  .right-section .icon {
+    font-size: 24px;
+    margin-right: 10px;
+  }
+  
+  .cta-button {
+    background-color: #ff5252;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 18px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 20px;
+  }
+  
+  .cta-button:hover {
+    background-color: #ff7979;
+  }
+  

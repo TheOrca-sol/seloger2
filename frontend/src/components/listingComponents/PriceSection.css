@@ -1,0 +1,47 @@
+.price-section {
+    margin-top: 20px;
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+  }
+  
+  .price-comparison {
+    margin-top: 20px;
+  }
+  
+  .price-bar {
+    position: relative;
+    height: 20px;
+    background: linear-gradient(to right, blue, red);
+    border-radius: 10px;
+    margin: 10px 0;
+  }
+  
+  .price-indicator {
+    position: absolute;
+    top: -10px;
+    height: 40px;
+    width: 60px;
+    background: #000;
+    color: #fff;
+    text-align: center;
+    line-height: 40px;
+    border-radius: 5px;
+  }
+  
+  .price-info {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .price-info p {
+    margin: 0;
+  }
+  
+  .price-section a {
+    color: #ff2e63;
+    text-decoration: underline;
+  }
+  

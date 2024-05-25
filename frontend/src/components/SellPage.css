@@ -1,0 +1,86 @@
+.sell-page {
+  padding: 20px;
+  background-color: #f5f5f5;
+}
+
+.breadcrumb {
+  margin-bottom: 20px;
+}
+
+.breadcrumb a {
+  color: #555;
+  text-decoration: none;
+}
+
+.breadcrumb span {
+  font-weight: bold;
+}
+
+.sell-page h1 {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.sell-page .highlight {
+  color: #ff2e63;
+}
+
+.sell-page .back-link {
+  display: block;
+  margin-bottom: 20px;
+  color: #ff2e63;
+  text-decoration: none;
+}
+
+.intro-text {
+  font-size: 18px;
+  margin-bottom: 20px;
+}
+
+.sell-option {
+  background-color: #fff;
+  border-radius: 8px;
+  padding: 20px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+.sell-option h2 {
+  font-size: 20px;
+  color: #ff2e63;
+}
+
+.sell-option p {
+  font-size: 16px;
+  color: #555;
+}
+
+.sell-option ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.sell-option ul li {
+  font-size: 14px;
+  color: #888;
+  margin-bottom: 10px;
+}
+
+.advertisement {
+  margin-top: 20px;
+  text-align: center;
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+.advertisement p {
+  margin-bottom: 10px;
+  font-size: 16px;
+  color: #555;
+}
+
+.advertisement img {
+  max-width: 100%;
+  height: auto;
+}

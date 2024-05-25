@@ -1,0 +1,56 @@
+.contact-form {
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+    margin-top: 20px;
+  }
+  
+  .contact-form h2 {
+    color: #ff2e63;
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  
+  .contact-form label {
+    display: block;
+    margin-bottom: 8px;
+    font-weight: bold;
+  }
+  
+  .contact-form input {
+    margin-bottom: 16px;
+  }
+  
+  .contact-form .additional-message {
+    margin-top: 16px;
+  }
+  
+  .contact-form .additional-message a {
+    display: block;
+    margin-bottom: 8px;
+  }
+  
+  .contact-form .contact-button {
+    background-color: #ff2e63;
+    color: white;
+    width: 100%;
+    margin-bottom: 16px;
+  }
+  
+  .contact-form .price-button {
+    border: 1px solid #ff2e63;
+    width: 100%;
+    margin-bottom: 16px;
+  }
+  
+  .contact-form .disclaimer {
+    font-size: 12px;
+    color: #888;
+    margin-top: 20px;
+  }
+  
+  .contact-form .disclaimer a {
+    color: #ff2e63;
+  }
+  

@@ -1,0 +1,30 @@
+.multi-step-form {
+    display: flex;
+  }
+  
+  .multi-step-form .sidebar {
+    width: 250px;
+    background-color: #f4f4f4;
+    padding: 20px;
+  }
+  
+  .multi-step-form .logo {
+    width: 100%;
+    margin-bottom: 20px;
+  }
+  
+  .multi-step-form .content {
+    flex-grow: 1;
+    padding: 20px;
+    max-width: calc(100% - 250px);
+  }
+  
+  .multi-step-form .step-content {
+    margin-bottom: 20px;
+  }
+  
+  .multi-step-form .steps-action {
+    display: flex;
+    justify-content: flex-end;
+  }
+  

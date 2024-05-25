@@ -1,0 +1,71 @@
+.property-type-step {
+    text-align: center;
+    padding: 20px;
+    max-width: 100%;
+    overflow: hidden;
+  }
+  
+  .info-required {
+    color: #ff0000;
+    margin-bottom: 20px;
+  }
+  
+
+  
+  .property-type-group .property-radio {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: none;
+    padding: 0;
+    width: 100%;
+  }
+  
+  .property-col {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .property-card {
+    width: 150px;
+    height: 150px;
+    text-align: center;
+    cursor: pointer;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid #f0f0f0;
+    transition: all 0.3s;
+  }
+  
+  .property-card span {
+    display: block;
+    margin-top: 10px;
+    font-size: 16px;
+  }
+  
+  .property-continue-button {
+    margin-top: 20px;
+    background-color: #ff0000;
+    border-color: #ff0000;
+    color: #fff;
+  }
+  
+  .info {
+    margin-top: 10px;
+    font-size: 12px;
+    color: #777;
+  }
+  
+  .disclaimer {
+    margin-top: 20px;
+    font-size: 12px;
+    color: #777;
+  }
+  
+  .disclaimer a {
+    color: #ff0000;
+    text-decoration: underline;
+  }
+  

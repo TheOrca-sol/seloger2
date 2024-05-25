@@ -1,0 +1,56 @@
+
+  .home {
+    background-image: url('https://e1.pxfuel.com/desktop-wallpaper/433/633/desktop-wallpaper-moroccan-rabat.jpg'); /* Set the path to your background image */
+    background-size: cover;
+    background-position: center;
+    padding: 50px 0;
+    text-align: center;
+  }
+  
+  .content {
+    background-color: rgba(255, 255, 255, 0.9);
+    padding: 20px;
+    border-radius: 8px;
+    display: inline-block;
+    max-width: 80%;
+  }
+  
+  .advanced-search, .owner-link {
+    display: block;
+    margin: 10px 0;
+    color: #333;
+    cursor: pointer;
+  }
+  
+  .advanced-search:hover, .owner-link:hover {
+    text-decoration: underline;
+  }
+  
+  .ant-input {
+    margin-bottom: 10px;
+  }
+  
+  .filters {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10px;
+  }
+  
+  .filters .ant-checkbox-wrapper {
+    margin-right: 10px;
+  }
+  .custom-tabs .ant-tabs-nav {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .custom-tabs .ant-tabs-tab {
+    display: flex;
+    justify-content: center;
+    width: 100px;
+  }
+  
+  .custom-tabs .ant-tabs-tab-btn {
+    text-align: center;
+    width: 100%;
+  }
